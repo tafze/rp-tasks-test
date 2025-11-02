@@ -1,0 +1,5 @@
+{
+  "name": "Royal Palms Todo app v0.3",
+  "description": "A comprehensive management tool for the Royal Palms business, including task management for Butchery and Maintenance, stock tracking for the Butchery, and flock management for Broilers. The app features a modern, mobile-first design with real-time data saving.",
+  "requestFramePermissions": []
+}
